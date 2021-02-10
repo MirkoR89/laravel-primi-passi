@@ -12,6 +12,7 @@
     </head>
     <body>
         @include('partials/header')
+        <h3>This is about me page</h3>
         @include('partials/main')
         @include('partials/footer')
     </body>
