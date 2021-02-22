@@ -1,3 +1,4 @@
+{{-- Footer site --}}
 <footer>
     <div class="container">
         <div class="d-flex align-items-center justify-content-around">
@@ -28,3 +29,6 @@
 
     </div>
 </footer>
+</body>
+
+</html>
